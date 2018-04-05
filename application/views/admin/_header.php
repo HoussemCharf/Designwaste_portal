@@ -64,7 +64,7 @@
             <span class="logo-mini"><b>I</b>n</span>
             <!-- logo for regular state and mobile devices -->
             <span class="logo-lg">
-                <b>Infinite Panel</b>
+                <b>DesignYourWaste Panel</b>
             </span>
         </a>
         <!-- Header Navbar: style can be found in header.less -->
