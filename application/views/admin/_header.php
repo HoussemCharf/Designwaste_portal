@@ -240,12 +240,12 @@
                             <span>Users</span>
                         </a>
                     </li>
-                    <li>
+                    <!--li>
                         <a href="<?php echo base_url(); ?>admin/font-options"><i class="fa fa-font" aria-hidden="true"></i>
                             <span>Font Options</span>
                         </a>
                     </li>
-                    <!--li>
+                    <li>
                         <a href="<?php echo base_url(); ?>admin/seo-tools"><i class="fa fa-wrench"></i>
                             <span>Seo Tools</span>
                         </a>
