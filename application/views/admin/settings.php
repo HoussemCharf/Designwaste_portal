@@ -13,7 +13,7 @@
                 <li class=""><a href="#tab_2" data-toggle="tab" aria-expanded="false">Email Settings</a></li>
                 <li class=""><a href="#tab_3" data-toggle="tab" aria-expanded="false">Contact Settings</a></li>
                 <li class=""><a href="#tab_4" data-toggle="tab" aria-expanded="false">Social Media Settings</a></li>
-                <li class=""><a href="#tab_5" data-toggle="tab" aria-expanded="false">Visual Settings</a></li>
+                <!--li class=""><a href="#tab_5" data-toggle="tab" aria-expanded="false">Visual Settings</a></li-->
                 <li class="pull-right"><a href="#" class="text-muted"><i class="fa fa-gear"></i></a></li>
             </ul>
             <div class="tab-content settings-tab-content">
@@ -221,7 +221,7 @@
                     </div>
                 </div><!-- /.tab-pane -->
 
-                <div class="tab-pane" id="tab_5">
+                <!--div class="tab-pane" id="tab_5">
 
                     <div class="form-group">
                         <label class="control-label">Select Color</label>
@@ -343,7 +343,7 @@
                             <span class='label label-info' id="upload-file-info2"></span>
                         </div>
                     </div>
-                </div><!-- /.tab-pane -->
+                </div--><!-- /.tab-pane -->
 
             </div><!-- /.tab-content -->
             <div class="box-footer">

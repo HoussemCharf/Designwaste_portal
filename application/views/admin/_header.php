@@ -229,12 +229,12 @@
                             <span>Newsletter</span>
                         </a>
                     </li>
-                    <li>
+                    <!--li>
                         <a href="<?php echo base_url(); ?>admin/ads">
                             <i class="fa fa-dollar" aria-hidden="true"></i>
                             <span>Ad Spaces</span>
                         </a>
-                    </li>
+                    </li-->
                     <li>
                         <a href="<?php echo base_url(); ?>admin/users"><i class="fa fa-users"></i>
                             <span>Users</span>
@@ -245,11 +245,11 @@
                             <span>Font Options</span>
                         </a>
                     </li>
-                    <li>
+                    <!--li>
                         <a href="<?php echo base_url(); ?>admin/seo-tools"><i class="fa fa-wrench"></i>
                             <span>Seo Tools</span>
                         </a>
-                    </li>
+                    </li-->
                     <li>
                         <a href="<?php echo base_url(); ?>admin/settings">
                             <i class="fa fa-cogs"></i>
