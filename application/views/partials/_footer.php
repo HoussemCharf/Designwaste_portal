@@ -131,7 +131,7 @@
         <!-- .row -->
 <div style="display: block;">
     <img src="https://i.imgur.com/cc2GuCr.png" width="200" height="200" style="display: inline;" />
-    <img src="http://eupa.org.mt/wp-content/uploads/sites/11/2017/07/logo-erasmus-plus.png" width="350" height="200" style="display: inline;"/>
+    <img src="https://i.imgur.com/85sARBe.png" width="350" height="200" style="display: inline;"/>
     <img src="https://i.imgur.com/cjDUzaE.png" width="400" height="200" style="display: inline;"/>
 </div>
         <!-- Copyright -->
