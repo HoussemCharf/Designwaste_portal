@@ -133,8 +133,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Logotipo_de_la_Xunta_de_Galicia.svg/1280px-Logotipo_de_la_Xunta_de_Galicia.svg.png" width="350" height="200" style="display: inline;" />
     <img src="http://eupa.org.mt/wp-content/uploads/sites/11/2017/07/logo-erasmus-plus.png" width="350" height="200" style="display: inline;"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Logotipo_de_la_Xunta_de_Galicia.svg/1280px-Logotipo_de_la_Xunta_de_Galicia.svg.png" width="350" height="200" style="display: inline;"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Logotipo_de_la_Xunta_de_Galicia.svg/1280px-Logotipo_de_la_Xunta_de_Galicia.svg.png" width="350" height="200" style="display: inline;"/>
-
+</div>
         <!-- Copyright -->
         <div class="footer-bottom">
             <div class="row">
@@ -161,7 +160,7 @@
         </div>
     </div>
     
-</div>
+
 </footer>
 <!-- End Footer Section -->
 
