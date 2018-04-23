@@ -131,9 +131,9 @@
         <!-- .row -->
 <div style="display: block;">
     <img src="https://i.imgur.com/cc2GuCr.png" width="200" height="200" style="display: inline;" />
-    <img src="https://i.imgur.com/F9t7toy.png" width="350" height="220" style="display: inline;"/>
-    <img src="https://i.imgur.com/cjDUzaE.png" width="400" height="200" style="display: inline;"/>
-    <img src="https://i.imgur.com/AuNyEhk.png" width="400" height="200" style="display: inline;"/>
+    <img src="https://i.imgur.com/85sARBe.png" width="400" height="220" style="display: inline;"/>
+    <img src="https://i.imgur.com/cjDUzaE.png" width="200" height="200" style="display: inline;"/>
+    <img src="https://i.imgur.com/AuNyEhk.png" width="200" height="200" style="display: inline;"/>
 </div>
         <!-- Copyright -->
         <div class="footer-bottom">
