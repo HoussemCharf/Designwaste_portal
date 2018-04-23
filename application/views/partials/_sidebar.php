@@ -2,8 +2,6 @@
 
 <div class="sidebar">
     <div style="display: block;">
-    <p> This Project is funded by</p>
-    <br>
     <img src="https://i.imgur.com/85sARBe.png" width="400" height="150" style="display: inline;"/>
     </div>
     <div class="sidebar-widget widget-popular-posts">
