@@ -1,6 +1,11 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
 
 <div class="sidebar">
+    <div style="display: block;">
+    <p> This Project is funded by</p>
+    <br>
+    <img src="https://i.imgur.com/85sARBe.png" width="400" height="150" style="display: inline;"/>
+    </div>
     <div class="sidebar-widget widget-popular-posts">
         <!--Include popular posts partial-->
         <?php $this->load->view('partials/_popular_posts'); ?>
