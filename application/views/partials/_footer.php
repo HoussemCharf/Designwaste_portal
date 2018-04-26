@@ -130,8 +130,8 @@
         </div>
         <!-- .row -->
 <div style="display: block;">
-    <img src="https://i.imgur.com/cc2GuCr.png" width="200" height="200" style="display: inline;" />
     <img src="https://i.imgur.com/85sARBe.png" width="400" height="150" style="display: inline;"/>
+    <img src="https://i.imgur.com/3vw5f1k.png" width="200" height="200" style="display: inline;" />
     <img src="https://i.imgur.com/cjDUzaE.png" width="250" height="200" style="display: inline;"/>
     <img src="https://i.imgur.com/AuNyEhk.png" width="250" height="200" style="display: inline;"/>
 </div>
