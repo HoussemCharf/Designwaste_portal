@@ -150,11 +150,20 @@
                                            target="_blank"><i class="fa fa-vk"></i></a>
                                     </li>
                                 <?php endif; ?>
-
+                                <li>
+                                    <div id="google_translate_element"></div><script type="text/javascript">
+                                        function googleTranslateElementInit() {
+                                          new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'en,es,it', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+                                        }
+                                        </script>
+                                    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+                                </li>
                                 <li class="pull-right">
                                     <a href="#" data-toggle="modal-search" class="search-icon"><i
                                                 class="fa fa-search"></i></a>
                                 </li>
+
                             </ul>
                         </div>
                     </div>
