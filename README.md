@@ -1,6 +1,6 @@
 # Designyourwaste WebApp
 
-a project for an association concerned with the environmental protection specifically protection of shores of Maamoura  
+a project for an association concerned with the environmental protection specifically protection of Maamoura shores
 
 ## Deployment
 
