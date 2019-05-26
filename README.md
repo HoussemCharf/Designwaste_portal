@@ -16,6 +16,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Houssem Charf
-* Kais B.S.
-* Mouin M.
+* Houssem Charfeddine
