@@ -48,7 +48,8 @@
                                 </div>
                             </div>
                         </div>
-
+						<br />
+						<br />
                         <div class="row row-masonry">
                             <div id="masonry" class="gallery">
                                 <!--Load Items-->
